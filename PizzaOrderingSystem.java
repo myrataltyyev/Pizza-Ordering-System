@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Homework_2 {
+public class PizzaOrderingSystem {
 	
 	static Scanner s = new Scanner(System.in);		// to use Scanner everywhere in this class
 	
